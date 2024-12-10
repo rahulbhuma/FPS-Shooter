@@ -1,3 +1,5 @@
 FPS Shooting game
+/////////////////
 
-The Build contains the assests and code used for the game
+
+The Build contains the Assets files and other c# files used for the project. 
